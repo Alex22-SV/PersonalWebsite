@@ -2575,13 +2575,13 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/banner.png");
+		background-image: url("../../images/purplebanner.png");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 15em;
+		height: 20em;
 		width: 100%;
 	}
 
